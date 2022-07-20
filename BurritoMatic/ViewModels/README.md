@@ -1,0 +1,1 @@
+### This is the folder where the implementation of the view model classes and methods would go. As this would be considered part of the UI implementation I did not create any of the classes and methods for  the ViewModel or View although I did add the folders for both. 
