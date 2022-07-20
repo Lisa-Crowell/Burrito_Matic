@@ -3,6 +3,11 @@ using BurritoMatic.Models;
 
 namespace BurritoMatic.DbContexts;
 
+/// <summary>
+/// This is a DbContext for the Burrito Matic database. It is used as a temporary
+/// database for the application. It is not intended to be used in production.
+/// </summary>
+/// <author>lisa.l.crowell@gmail.com</author>
 public class TempData
 {
     public static List<Category> Categories = new List<Category>()
