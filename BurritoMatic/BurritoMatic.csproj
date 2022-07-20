@@ -7,4 +7,11 @@
         <UseWPF>true</UseWPF>
     </PropertyGroup>
 
+    <ItemGroup>
+      <Folder Include="DbContexts" />
+      <Folder Include="Services" />
+      <Folder Include="ViewModels" />
+      <Folder Include="Views" />
+    </ItemGroup>
+
 </Project>
